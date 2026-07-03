@@ -1,0 +1,20 @@
+[
+  {
+    "id": "1",
+    "title": "Complete React project",
+    "completed": false,
+    "createdAt": "2026-06-20T09:00:00.000Z"
+  },
+  {
+    "id": "2",
+    "title": "Study for algorithms exam",
+    "completed": false,
+    "createdAt": "2026-06-21T11:00:00.000Z"
+  },
+  {
+    "id": "3",
+    "title": "Review database normalization",
+    "completed": false,
+    "createdAt": "2026-06-28T08:00:00.000Z"
+  }
+]

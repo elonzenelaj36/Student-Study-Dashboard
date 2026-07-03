@@ -1,0 +1,30 @@
+[
+  {
+    "id": "1",
+    "title": "React Hooks Overview",
+    "content": "useState manages local state. useEffect handles side effects like API calls and subscriptions. useContext shares state across components without prop drilling.",
+    "category": "React",
+    "createdAt": "2026-06-20T09:00:00.000Z"
+  },
+  {
+    "id": "2",
+    "title": "Express REST API Basics",
+    "content": "GET retrieves data, POST creates new records, PUT updates existing records, DELETE removes records. Always return proper HTTP status codes.",
+    "category": "Node.js",
+    "createdAt": "2026-06-22T10:30:00.000Z"
+  },
+  {
+    "id": "3",
+    "title": "CSS Flexbox Notes",
+    "content": "display: flex activates flexbox. Use justify-content for horizontal alignment and align-items for vertical. flex-direction: column stacks elements vertically.",
+    "category": "CSS",
+    "createdAt": "2026-06-25T14:15:00.000Z"
+  },
+  {
+    "id": "1782935128397",
+    "title": "Test",
+    "content": "Just testing",
+    "category": "Other",
+    "createdAt": "2026-07-01T19:45:28.397Z"
+  }
+]

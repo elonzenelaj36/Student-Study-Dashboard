@@ -1,0 +1,35 @@
+/* ============================================================
+   footer.css — Footer component styles
+   ============================================================ */
+
+.footer {
+  border-top: 1px solid var(--border);
+  padding: 14px 36px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+}
+
+.footer-text {
+  font-size: 0.75rem;
+  color: var(--text-muted);
+}
+.footer-text strong {
+  color: var(--text-secondary);
+}
+
+.footer-right {
+  font-size: 0.72rem;
+  color: var(--text-muted);
+  font-family: var(--font-mono);
+}
+
+@media (max-width: 768px) {
+  .footer {
+    flex-direction: column;
+    padding: 14px 16px;
+    gap: 4px;
+    text-align: center;
+  }
+}
