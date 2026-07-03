@@ -1,4 +1,4 @@
-# 📚 Student Study Dashboard
+# Student Study Dashboard
 
 A full-stack web application for students to manage notes, track tasks, and stay focused with a Pomodoro study timer.
 
@@ -6,7 +6,7 @@ A full-stack web application for students to manage notes, track tasks, and stay
 
 ---
 
-## 🚀 Quick Start
+## Quick Start
 
 You need **two terminals** — one for the backend, one for the frontend.
 
